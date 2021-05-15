@@ -9,7 +9,7 @@ import javax.persistence.ManyToOne;
 
 import com.fasterxml.jackson.annotation.*;
 
-import lombok.Data;
+import lombok.Data; 
 
 @Entity
 @Data
